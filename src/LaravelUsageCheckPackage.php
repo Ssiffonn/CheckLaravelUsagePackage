@@ -4,7 +4,7 @@ namespace Sifon\LaravelUsageCheckPackage;
 
 use GuzzleHttp\Client;
 
-class LaravelUsageCheck
+class LaravelUsageCheckPackage
 {
     /**
      * Check if site uses Laravel by checking its cookies
