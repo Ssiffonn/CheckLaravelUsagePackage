@@ -1,3 +1,8 @@
+# Installation
+```bash
+composer require sifon/laravel-usage-check-package
+```
+
 # Usage
 
 ## This will return plain array of pages that use Laravel
